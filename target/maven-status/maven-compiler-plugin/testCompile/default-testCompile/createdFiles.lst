@@ -1,0 +1,16 @@
+co\empresa\qa\automation\models\Credentials.class
+co\empresa\qa\automation\flows\AffiliateFlow.class
+co\empresa\qa\automation\flows\LoginFlow.class
+co\empresa\qa\automation\pages\aseg_afiliados\AffiliateFormPage.class
+co\empresa\qa\automation\infrastructure\hooks\DriverHooks.class
+co\empresa\qa\automation\models\AffiliateDataGenerator.class
+co\empresa\qa\automation\pages\login\LoginPage.class
+co\empresa\qa\automation\steps\AllureSteps.class
+co\empresa\qa\automation\utils\PrimeFacesSelect.class
+co\empresa\qa\automation\infrastructure\DriverManager.class
+co\empresa\qa\automation\pages\aseg_afiliados\AffiliatesListPage.class
+co\empresa\qa\automation\tests\LoginTest.class
+co\empresa\qa\automation\config\ConfigManager.class
+co\empresa\qa\automation\tests\AffiliateCreationTest.class
+co\empresa\qa\automation\utils\AutoCompleteSelect.class
+co\empresa\qa\automation\models\AffiliateData.class

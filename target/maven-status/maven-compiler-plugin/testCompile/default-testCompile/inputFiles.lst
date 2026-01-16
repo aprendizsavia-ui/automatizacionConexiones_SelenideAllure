@@ -1,0 +1,16 @@
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\config\ConfigManager.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\flows\AffiliateFlow.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\flows\LoginFlow.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\infrastructure\DriverManager.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\infrastructure\hooks\DriverHooks.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\models\AffiliateData.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\models\AffiliateDataGenerator.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\models\Credentials.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\pages\aseg_afiliados\AffiliateFormPage.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\pages\aseg_afiliados\AffiliatesListPage.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\pages\login\LoginPage.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\steps\AllureSteps.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\tests\AffiliateCreationTest.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\tests\LoginTest.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\utils\AutoCompleteSelect.java
+C:\Users\dpiedrahita\IdeaProjects\client-automation-bot\src\test\java\co\empresa\qa\automation\utils\PrimeFacesSelect.java

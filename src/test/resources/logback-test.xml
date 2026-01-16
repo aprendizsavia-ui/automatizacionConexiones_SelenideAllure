@@ -1,0 +1,21 @@
+<!--
+Configuración de Logback para pruebas automatizadas.
+- Nivel INFO en la consola con formato limpio y legible.
+- Reduce el ruido de logs innecesarios de Selenide y Selenium a WARN.
+-->
+
+<configuration>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="STDOUT"/>
+    </root>
+
+    <!-- Silenciar logs de Selenide/Selenium que no aportan valor en QA -->
+    <logger name="com.codeborne.selenide" level="WARN"/>
+    <logger name="org.openqa.selenium" level="WARN"/>
+</configuration>
